@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MapMQTT/static/css/main.525e8fa5.css",
+    "main.js": "/MapMQTT/static/js/main.3e162180.js",
+    "index.html": "/MapMQTT/index.html",
+    "main.525e8fa5.css.map": "/MapMQTT/static/css/main.525e8fa5.css.map",
+    "main.3e162180.js.map": "/MapMQTT/static/js/main.3e162180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.525e8fa5.css",
+    "static/js/main.3e162180.js"
+  ]
+}
