@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MapMQTT/static/css/main.525e8fa5.css",
-    "main.js": "/MapMQTT/static/js/main.3e162180.js",
-    "index.html": "/MapMQTT/index.html",
-    "main.525e8fa5.css.map": "/MapMQTT/static/css/main.525e8fa5.css.map",
-    "main.3e162180.js.map": "/MapMQTT/static/js/main.3e162180.js.map"
+    "main.css": "http://Azfar101.github.io/MapMQTT/static/css/main.525e8fa5.css",
+    "main.js": "http://Azfar101.github.io/MapMQTT/static/js/main.3e162180.js",
+    "index.html": "http://Azfar101.github.io/MapMQTT/index.html",
+    "main.525e8fa5.css.map": "http://Azfar101.github.io/MapMQTT/static/css/main.525e8fa5.css.map",
+    "main.3e162180.js.map": "http://Azfar101.github.io/MapMQTT/static/js/main.3e162180.js.map"
   },
   "entrypoints": [
     "static/css/main.525e8fa5.css",
